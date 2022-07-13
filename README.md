@@ -1,13 +1,13 @@
 # 🖥️RESUMEN DEL TERCER BIMESTRE💻
 ## :green_heart:LISTADO DETEMAS:
 
-:white_check_mark: PYTHON.
-:white_check_mark: JAVASCRIPT.
-:white_check_mark: CONEXION A JAVASCRIPT.
-:white_check_mark: FRAMEWORKS.
-:white_check_mark: IONIC.
-:white_check_mark: REPOSITORIOS.
-:white_check_mark: CREACION DE CUENTAS EN GITHUB.
+- :white_check_mark: PYTHON.
+- :white_check_mark: JAVASCRIPT.
+- :white_check_mark: CONEXION A JAVASCRIPT.
+- :white_check_mark: FRAMEWORKS.
+- :white_check_mark: IONIC.
+- :white_check_mark: REPOSITORIOS.
+- :white_check_mark: CREACION DE CUENTAS EN GITHUB.
 
 
 ## PYTHON  :snake:
